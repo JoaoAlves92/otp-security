@@ -1,4 +1,4 @@
-# otp-security
+# oftp2-security
 
 Para executar o projeto:
 ```bash
